@@ -1,2 +1,4 @@
 # Site settings
 title: online presentation
+
+theme: jekyll-theme-slate
